@@ -1,6 +1,6 @@
-##Socket básico con Node.
+## Sockets con Node.
 
-Esta es un proyecto base para el desarrollo de sockets.
+Este es un proyecto base para el desarrollo de sockets.
 
 ```
 npm install
